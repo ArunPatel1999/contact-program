@@ -1,3 +1,4 @@
+//Contact-program
 import java.util.Scanner;
 class Contact
 {
